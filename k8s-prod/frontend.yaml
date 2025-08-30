@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: kranthi069/frontend:83eeadae3698132c0099dfad1ba3a882fd7be94c
+          image: kranthi069/frontend:f1c20f49ac62e4ce7c3188273ab9e4405d5aeb26
           ports:
             - containerPort: 80
 ---
