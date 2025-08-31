@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: kranthi069/backend:f1c20f49ac62e4ce7c3188273ab9e4405d5aeb26
+          image: kranthi069/backend:bca597bb4b45e0f5917ee075cab9b5776c0749e8
           ports:
             - containerPort: 5000
           env:
